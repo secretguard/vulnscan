@@ -12,6 +12,8 @@ git clone "https://github.com/secretguard/vulnscan"
 
 cd vulnscan
 
+chmod +x *.sh
+
 ./install_vulnscan.sh
 
 ./vulndbupdate.sh
