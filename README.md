@@ -8,9 +8,12 @@ and a script to update the Vulnerability Database.
 To use the script execute the following commands in shell consecutively.
 
 ```
-git clone "URL"
-cd 
+git clone "https://github.com/secretguard/vulnscan"
+
+cd vulnscan
+
 ./install_vulnscan.sh
+
 ./vulndbupdate.sh
 
 ```
