@@ -1,4 +1,5 @@
 #! /bin/bash
+#Author : Sarath G (https://www.facebook.com/sarathg.alp)
 echo "Starting to update scripts......"
 mkdir $PWD/tmp_dir
 download_scripts()
